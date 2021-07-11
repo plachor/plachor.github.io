@@ -1,4 +1,4 @@
-centered_grid {
+.centered_grid {
   display: grid;
   justify-content: center;
   align-content: center;
